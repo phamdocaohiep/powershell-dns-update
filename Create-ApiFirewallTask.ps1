@@ -1,9 +1,9 @@
 param(
     [string]$TaskName = "Refresh-Allow-API",
     [string]$DomainName = "phamdocaohiep.io.vn",
-    [string]$ConfigPath = "C:\\Path\\To\\config.json",
+    [string]$ConfigPath = "D:\\Project\\dns-config\\config.json",
     [string]$RuleDisplayName = "Allow API",
-    [string]$ScriptPath = "C:\\Path\\To\\Update-ApiFirewall.ps1",
+    [string]$ScriptPath = "D:\\Project\\dns-config\\Update-ApiFirewall.ps1",
     [TimeSpan]$Interval = (New-TimeSpan -Minutes 30),
     [string]$User = $(whoami),
     [pscredential]$Credential
