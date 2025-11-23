@@ -1,10 +1,14 @@
-[
-  {
-    "ip": "113.161.79.178",
-    "name": "PhucLongVinHomeGrandPark"
-  },
-  {
-    "ip": "42.115.180.150",
-    "name": "phamdocaohiep.io.vn"
-  }
+﻿[
+    {
+        "ip":  "113.161.79.178",
+        "name":  "PhucLongVinHomeGrandPark"
+    },
+    {
+        "ip":  "42.115.180.113",
+        "name":  "phamdocaohiep.io.vn1"
+    },
+    {
+        "ip":  "42.115.180.150",
+        "name":  "phamdocaohiep.io.vn"
+    }
 ]
